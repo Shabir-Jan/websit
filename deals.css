@@ -1,0 +1,123 @@
+.na{
+    height: 50px;
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+a{
+    display: inline;
+    margin: 30px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    transition: all 1s;
+    text-decoration: none;    
+}
+a:hover{
+    border-radius: 4px;
+    background-color: rgb(2, 105, 136);
+}
+.gif img{
+    background-image: url(./towday.webp);
+    width: 1500px;
+    height: 380px;
+    margin-top: 20px;
+    border-radius: 19px;
+    margin-left: 8%; 
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+}
+.today img{
+    height: 170px;
+    margin-top: 20px;
+    transition: all 1s;
+}
+.today img:hover{
+    transform: scale(1.1);
+}
+.deal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.today{
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 0px 0px;
+    border: 1px solid red;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    text-align: center;
+    cursor:pointer ;  
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.one img{
+    margin-top: 20px;
+    transition: all 1s;
+}
+.one img:hover{
+    transform: scale(1.1);
+}
+.fast img{
+    width: 400px;
+}
+.fast{
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    box-shadow: 0px 0px;
+    border: 1px solid red;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    text-align: center;
+    cursor:pointer ;  
+}
+.tow img{
+    width: 190px;
+}
+.tow{
+    width: 300px;
+    height: 310px;
+    margin: 10px;
+    box-shadow: 0px 0px;
+    border: 1px solid red;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    text-align: center;
+    cursor:pointer ; 
+}
+.foot{
+    background-color: rgb(27, 27, 75);
+}
+.foot h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(27, 27, 75);
+}
+.foot p{
+    text-align: center;
+    color: white;
+}
+hr{
+    color: beige;
+}
+.foot img{
+    background: none;
+    border: 1px solid rgb(27, 27, 75);
+    margin-left: 9%;
+    width: 100px;
+    height: 100px;
+}

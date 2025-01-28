@@ -1,0 +1,137 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.na{
+    height: 50px;
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+a{
+    display: inline;
+    margin: 30px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    transition: all 1s; 
+    text-decoration: none;   
+}
+a:hover{
+    border-radius: 4px;
+    background-color: rgb(2, 105, 136);
+}
+#body{
+    width: 1500px;
+    margin-left: 35px;
+    border: 1px solid rgb(15, 10, 10);
+    background-image: url(./best.jpeg);
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(29, 243, 243);
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    border-radius: 9px;
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+}
+.asz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lip{
+    width: 300px;
+    height: 390px;
+    margin: 10px;
+    box-shadow: 0px 0px ;
+    border: 1px solid red;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    text-align: center;
+    cursor:pointer ;
+    
+}
+.asz img{
+    transition: all 1s;
+}
+.asz img:hover{
+    margin-top: 20px;
+    transform: scale(1.1);
+}
+button{
+    height: 19px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 12, 12);
+    border: none;
+    margin: 5px;
+    transition: all 1s;
+    border-radius: 3px;
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.1);
+    background-color: rgb(19, 13, 13);
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+}
+.asz img{
+    width: 250px;
+    height: 221px;
+}
+.tree{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.tow{
+    width: 300px;
+    height: 390px;
+    margin: 10px;
+    box-shadow: 0px 0px ;
+    border: 1px solid red;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 5px rgb(2, 105, 136);
+    text-align: center;
+    cursor:pointer ;
+}
+.tree img{
+    transition: all 1s;
+}
+.tree img:hover{
+    margin-top: 20px;
+    transform: scale(1.1);
+}
+.tree img{
+    width: 250px;
+    height: 221px;
+}
+.foot{
+    background-color: rgb(27, 27, 75);
+}
+.foot h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(27, 27, 75);
+}
+.foot p{
+    text-align: center;
+    color: white;
+}
+hr{
+    color: beige;
+}
+.foot img{
+    background: none;
+    border: 1px solid rgb(27, 27, 75);
+    margin-left: 9%;
+    width: 100px;
+    height: 100px;
+}
+
+
